@@ -32,7 +32,7 @@ phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
 enable = true
-form_action = "<form   action=\"https://formspree.io/xdowvqkg\"   method=\"POST\" >"
+form_action = "https://formspree.io/xdowvqkg"
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
