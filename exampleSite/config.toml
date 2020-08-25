@@ -1,4 +1,4 @@
-baseURL = "http://digitalstart.lt"
+baseURL = "https://digitalstart.lt"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
