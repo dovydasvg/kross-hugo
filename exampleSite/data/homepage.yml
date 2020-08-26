@@ -7,10 +7,10 @@ about:
     bandelės, iki serviso, kuris stengiasi pataisyti jau seniai į pensiją išeit turėjusią
     bulką. \U0001F697 Mes padedame papasakoti tas istorijas pasauliui ir atvesti Jums
     klientus. \nAr tai būtų svetainės sukūrimas, socialinių tinklų valdymas, ar turinio
-    rašymas - mes papasakosime Jūsų istorija.❤️"
+    rašymas - mes papasakosime Jūsų istoriją.❤️"
   button:
     enable: true
-    label: Noriu Žinoti Daugiau
+    label: Paslaptys
     URL: about
 skill:
   enable: true
