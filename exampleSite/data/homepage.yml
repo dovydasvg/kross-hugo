@@ -4,10 +4,10 @@ banner:
 about:
   enable: true
   content: "Nuo kepyklėlės, kuri rūpinasi, kad kas rytą vaikų nosis nudžiugintų šviežios
-    bandelės, iki serviso, kuris stengiasi pataisyti jau seniai į pensiją išeit turėjusią
-    bulką, \U0001F697 mes padedame papasakoti tas istorijas pasauliui ir atvesti Jums
-    klientus.<br>\nAr tai būtų svetainės sukūrimas, socialinių tinklų valdymas, ar
-    turinio rašymas - mes papasakosime Jūsų istoriją.❤️"
+    bandelės , iki serviso, kuris stengiasi pataisyti jau seniai į pensiją išeit turėjusią
+    bulką \U0001F697, mes padedame papasakoti tas istorijas pasauliui ir atvesti Jums
+    klientus.\nAr tai būtų svetainės sukūrimas, socialinių tinklų valdymas, ar turinio
+    rašymas - mes papasakosime Jūsų istoriją.❤️"
   button:
     enable: true
     label: "Paslaptys \U0001F92B"
