@@ -60,7 +60,7 @@ education:
     academy: Cardiff School
 service:
   enable: true
-  title: Mes jums
+  title: Mes
   item:
   - title: Sukursime svetainę ✨
     icon: ti-desktop
