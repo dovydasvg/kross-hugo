@@ -79,14 +79,14 @@ service:
       gali nuversti kalnus.
     highlighted: false
 portfolio:
-  enable: true
+  enable: false
   title: Portfolio
   item_show: "5"
 testimonial:
-  enable: true
-  title: Testimonials
+  enable: false
+  title: "Apie mus sako \U0001F970"
   item:
-  - name: Jesica Gomez
+  - name: ''
     image: images/testimonial/client-1.png
     designation: CEO, Funder
     content: This is a great Website
