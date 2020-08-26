@@ -3,9 +3,11 @@ banner:
   title: Kūrybiniai sprendimai<br>pardavimų didinimui
 about:
   enable: true
-  content: |-
-    Nuo kepyklėlės, kuri rūpinasi, kad kasrytą vaikų nosis nudžiungintų šviežios bandelės, iki serviso, kuris stengiasi pataisyti jau seniai į pensiją išeit turėjųsią bulką. Mes padedame papasakoti tas istorijas pasauliui ir atvesti Jums klientus.
-    Ar tai būtų svetainės sukūrimas, socialinių tinklų valdymas, ar turinio rašymas - mes papasakosime Jūsų istorija.
+  content: "Nuo kepyklėlės, kuri rūpinasi, kad kas rytą vaikų nosis nudžiugintų šviežios
+    bandelės, iki serviso, kuris stengiasi pataisyti jau seniai į pensiją išeit turėjusią
+    bulką. \U0001F697 Mes padedame papasakoti tas istorijas pasauliui ir atvesti Jums
+    klientus. \nAr tai būtų svetainės sukūrimas, socialinių tinklų valdymas, ar turinio
+    rašymas - mes papasakosime Jūsų istorija.❤️"
   button:
     enable: true
     label: Noriu Žinoti Daugiau
