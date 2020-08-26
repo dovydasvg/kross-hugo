@@ -10,7 +10,7 @@ about:
     rašymas - mes papasakosime Jūsų istoriją.❤️"
   button:
     enable: true
-    label: Paslaptys
+    label: "Paslaptys \U0001F92B"
     URL: about
 skill:
   enable: true
