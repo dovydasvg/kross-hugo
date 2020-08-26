@@ -12,21 +12,21 @@ URL = "contact"
 name = "Susisiekti"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
+address = "Vilnius"
 author = "Johnathan Smith"
 copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "digitalstartagentura@gmail.com"
 google_analytics_id = ""
-home = "Home"
+home = "🏠"
 logo = ""
-phone = "+880 2544 658 256"
-theme_color = "#41228e"
+phone = "+370 656 45000"
+theme_color = "#1CC0E8"
 [params.contact]
 enable = true
 form_action = "https://formspree.io/xdowvqkg"
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
