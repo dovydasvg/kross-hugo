@@ -5,11 +5,11 @@ theme = "kross-hugo"
 title = "Digital Start"
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "Paslaptys"
 weight = 1
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Susisiekti"
 weight = 4
 [params]
 address = "125/A, CA Commercial Area, California, USA"
