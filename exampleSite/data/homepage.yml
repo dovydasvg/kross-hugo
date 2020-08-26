@@ -12,18 +12,18 @@ about:
     URL: about
 skill:
   enable: true
-  title: Skills
+  title: Ką kuriame geriausiai
   item:
-  - title: Web Design
-    progress: 90%
+  - title: Svetainės
+    progress: 70%
     color: "#fdb157"
-  - title: Logo Design
-    progress: 60%
+  - title: Tekstus
+    progress: 95%
     color: "#9473e6"
-  - title: After Effects
-    progress: 80%
+  - title: Video
+    progress: 87%
     color: "#bdecf6"
-  - title: Web App
+  - title: Soc. tinklų strategijos
     progress: 70%
     color: "#ffbcaa"
 experience:
