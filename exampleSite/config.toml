@@ -21,7 +21,7 @@ google_analytics_id = ""
 home = "🏠"
 logo = ""
 phone = "+370 656 45000"
-theme_color = "#1CC0E8"
+theme_color = "#13A6D1"
 [params.contact]
 enable = true
 form_action = "https://formspree.io/xdowvqkg"
