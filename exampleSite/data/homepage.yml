@@ -62,19 +62,19 @@ service:
   enable: true
   title: Mes jums
   item:
-  - title: Parašysime tekstus
+  - title: Sukursime svetainę ✨
+    icon: ti-desktop
+    content: Sukursime pilnai paruoštą svetainę, kurią lengvai ras Jūsų klientai.
+      Mūsų tikslas - Jūsų pardavimai.
+    highlighted: false
+  - title: "Parašysime tekstus \U0001F58A️"
     icon: ti-write
     content: Nuo Facebook'o post'o iki knygutės, mes žodžiais papasakosime Jūsų istoriją.
-    highlighted: false
-  - title: UX Design
-    icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
     highlighted: true
-  - title: Interaction Design
-    icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - title: "Prižiūrėsime instagram'ą \U0001F60A"
+    icon: ti-instagram
+    content: Padėsime, kad klientai jus ne tik pastebėtų, bet ir sektų. Geras instagram'as
+      gali nuversti kalnus.
     highlighted: false
 portfolio:
   enable: true
