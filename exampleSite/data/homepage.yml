@@ -27,7 +27,7 @@ skill:
     progress: 70%
     color: "#ffbcaa"
 experience:
-  enable: true
+  enable: false
   title: Experience
   item:
   - logo: images/experience/icon-1.png
@@ -43,7 +43,7 @@ experience:
     company: THEMEFISHER
     duration: Sep 2014 - Present
 education:
-  enable: true
+  enable: false
   title: Education
   item:
   - title: Marters in UX Design
@@ -60,12 +60,11 @@ education:
     academy: Cardiff School
 service:
   enable: true
-  title: Services
+  title: Mes jums
   item:
-  - title: UI Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - title: Parašysime tekstus
+    icon: ti-write
+    content: Nuo Facebook'o post'o iki knygutės, mes žodžiais papasakosime Jūsų istoriją.
     highlighted: false
   - title: UX Design
     icon: ti-vector
