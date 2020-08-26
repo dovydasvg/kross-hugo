@@ -16,7 +16,7 @@ work_process:
     content: "Vykdyme mūsų planą ir į pasaulį išeiną kūrybos vaisiai. Įvertiname kiek
       paaugo pardavimai, analizuojam ir skrendam. \U0001F680"
 team:
-  enable: true
+  enable: false
   title: My Team
   team_member:
   - title: Jack Schenziwe
