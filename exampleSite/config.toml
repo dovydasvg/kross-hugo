@@ -2,7 +2,7 @@ baseURL = "https://digitalstart.lt"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Digital Start"
+title = "Digital Start ❤️"
 [[menu.main]]
 URL = "about"
 name = "Paslaptys"
