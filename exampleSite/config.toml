@@ -62,3 +62,7 @@ icon = "ti-dribbble"
 [[params.social]]
 URL = "#"
 icon = "ti-twitter-alt"
+
+
+enableRobotsTXT = true
+canonifyURLs = true
