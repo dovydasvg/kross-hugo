@@ -15,7 +15,7 @@ weight = 4
 address = "Vilnius"
 author = "Dovydas Van Gucht"
 copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
+description = "Mes esame Digital Start - kūrybinių verslo sprendimų agentūra orientuota į pardavimus. Mes padedame jums su svetainių kurimu, socialinių tinklų strategijomis, video bei kitais verslo sprendimais! Sveiki atvykę į Digital Start."
 email = "digitalstartagentura@gmail.com"
 google_analytics_id = ""
 home = "🏠"
@@ -61,8 +61,6 @@ URL = "#"
 icon = "ti-dribbble"
 [[params.social]]
 URL = "#"
-icon = "ti-twitter-alt"
-
-
-enableRobotsTXT = true
 canonifyURLs = true
+enableRobotsTXT = true
+icon = "ti-twitter-alt"
