@@ -113,7 +113,7 @@ clients_logo_slider:
     URL: http://soderma.lt
   - logo: images/image.png
     URL: lcvbaltic.lt
-  - logo: images/klases.lt pilkas (1).png
+  - logo: "/images/klases-lt-pilkas-1.png"
     URL: klases.lt
   - logo: images/image (2).png
     URL: ''
