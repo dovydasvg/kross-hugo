@@ -62,7 +62,7 @@ education:
     academy: Cardiff School
 service:
   enable: true
-  title: Mes
+  title: "Mes Jums \U0001F91D"
   item:
   - title: Sukursime svetainę ✨
     icon: ti-desktop
