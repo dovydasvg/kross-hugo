@@ -21,6 +21,7 @@ google_analytics_id = ""
 home = "🏠"
 logo = ""
 phone = "+370 656 45000"
+social = []
 theme_color = "#13A6D1"
 [params.contact]
 enable = true
@@ -50,17 +51,3 @@ link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
 preloader = "images/preloader.gif"
-[[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
-icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
-canonifyURLs = true
-enableRobotsTXT = true
-icon = "ti-twitter-alt"
