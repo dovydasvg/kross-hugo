@@ -119,14 +119,10 @@ clients_logo_slider:
     URL: ''
   - logo: images/logo (3).png
     URL: "#"
-  - logo: images/clients-logo/client-logo-2.png
-    URL: http://examplesite.com
   - logo: images/clients-logo/client-logo-3.png
     URL: "#"
   - logo: images/clients-logo/client-logo-4.png
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-5.png
-    URL: "#"
 blog:
   enable: false
   title: Blogs
