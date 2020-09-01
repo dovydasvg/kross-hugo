@@ -109,7 +109,7 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
-  - logo: images/image (1).png
+  - logo: images/image-1.png
     URL: http://soderma.lt
   - logo: images/image.png
     URL: https://lcvbaltic.lt
