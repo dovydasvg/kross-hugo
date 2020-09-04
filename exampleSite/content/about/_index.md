@@ -1,6 +1,6 @@
 ---
 title: "Paslaptys"
-description: "This is meta description."
+description: "Mes esame Digital Start - kūrybinių verslo sprendimų agentūra orientuota į pardavimus. Mes padedame jums su svetainių kurimu, socialinių tinklų strategijomis, video bei kitais verslo sprendimais! Sveiki atvykę į Digital Start."
 author_image : "images/about/author.jpg"
 author_signature : "images/about/signature.png"
 draft: false
