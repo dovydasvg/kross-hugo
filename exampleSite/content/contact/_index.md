@@ -1,5 +1,5 @@
 ---
 title: "Susisiekite"
-description: "This is meta description."
+description: "Susisiekite su Digital Start!"
 draft: false
 ---
